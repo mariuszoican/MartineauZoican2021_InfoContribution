@@ -1,0 +1,9 @@
+Number of topics:  71
+Load metadata...
+Metadata loaded: 46.323352575302124
+Tokenize and build corpus....
+----- Number of topics:  71
+Loop time:  5549.33407998085
+-------- Get perplexity:  -8.465857839470006
+/global/home/pc_mzoican/.conda/envs/ldaenv/lib/python3.8/site-packages/gensim/similarities/__init__.py:15: UserWarning: The gensim.similarities.levenshtein submodule is disabled, because the optional Levenshtein package <https://pypi.org/project/python-Levenshtein/> is unavailable. Install Levenhstein (e.g. `pip install python-Levenshtein`) to suppress this warning.
+  warnings.warn(msg)
